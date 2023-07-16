@@ -1,0 +1,10 @@
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/jmespath-community/go-jmespath v1.1.0 h1:jDWE/sGR5ELgzAczUNX/maQFmh3BeLsvQX/0PXZBrA0=
+github.com/jmespath-community/go-jmespath v1.1.0/go.mod h1:sY3q31u+PPDRp5yLcckgzg6eltf6Dw8nUkDYuRH8OtI=
+github.com/neovim/go-client v1.2.2-0.20230709144529-fe20a78fdd30 h1:OUzIZkkOTgOqQu+zd5Zorzv5HMRwgTnfGl5cKrbeBs0=
+github.com/neovim/go-client v1.2.2-0.20230709144529-fe20a78fdd30/go.mod h1:UBsOERb5epbeQT0nyPTZkmUPTffRYBcHvrXXidr1NQQ=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/stretchr/testify v1.8.1 h1:w7B6lhMri9wdJUVmEZPGGhZzrYTPvgJArz7wNPgYKsk=
+golang.org/x/exp v0.0.0-20230224173230-c95f2b4c22f2 h1:Jvc7gsqn21cJHCmAWx0LiimpP18LZmUxkT5Mp7EZ1mI=
+golang.org/x/exp v0.0.0-20230224173230-c95f2b4c22f2/go.mod h1:CxIveKay+FTh1D0yPZemJVgC/95VzuuOLq5Qi4xnoYc=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=

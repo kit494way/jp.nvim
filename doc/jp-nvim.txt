@@ -1,0 +1,23 @@
+*jp-nvim* JMESPath plugin
+
+==============================================================================
+CONTENTS                                                             *jp-nvim*
+
+1. Introduction                                                     |jp-intro|
+2. Commands                                                      |jp-commands|
+
+==============================================================================
+INTRODUCTION                                                        *jp-intro*
+
+    jp.nvim is an interface to JMESPath, an expression language for
+    manipulating JSON.
+
+==============================================================================
+COMMANDS                                                         *jp-commands*
+
+:JP query                                                                *:JP*
+    Reads current buffer as input JSON, evaluates the query as JMESPath
+    expression, and displays the results in a scratch buffer.
+
+==============================================================================
+ vim:tw=78:sw=4:noet:ts=8:ft=help:norl:
